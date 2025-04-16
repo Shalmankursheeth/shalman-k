@@ -1,7 +1,8 @@
 # shalman-k
 ### 🧠 Experience
 
-### 💻 Full-Stack Developer Intern – The Techclans
+### 💻 Full-Stack Developer Intern – TheTechclans(Now AmazeTechClans)
+"https://amazetechclans.com"
 *May 2024 – July 2024 (Extended until Dec 2024, unofficial)*  
 - Angular + Django REST full-stack development
 - SQL Server integration
