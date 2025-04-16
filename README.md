@@ -1,4 +1,17 @@
 # shalman-k
+### 🧠 Experience
+
+### 💻 Full-Stack Developer Intern – The Techclans
+*May 2024 – July 2024 (Extended until Dec 2024, unofficial)*  
+- Angular + Django REST full-stack development
+- SQL Server integration
+- Real-world project delivery (NDA-protected)
+
+### 📚 IEEE Conference Presenter – IConSCEPT 2024
+**Paper**: *Intrusion Detection System and Isolation*  
+- Presented at IEEE-sponsored international conference at NIT Puducherry  
+- Focus: SDN, BiLSTM-based IDS, real-time attack mitigation  
+
 
 ## 🚀 Featured Projects
 
