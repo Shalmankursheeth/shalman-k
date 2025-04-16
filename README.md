@@ -26,7 +26,7 @@
   Real-time Indian Sign Language detection and translation using deep learning and OpenCV.
 
 - 🌐 [Full Stack App - Amazetechclans](https://github.com/Shalmankursheeth/amazetechclans-webapp)  
-  End-to-end MERN stack project featuring authentication, real-time updates, and deployment-ready components.
+  End-to-end project featuring authentication, real-time updates.
 
 - 📊 [Social Media Sentiment Analysis](https://github.com/Shalmankursheeth/social-media-sentiment-analysis)  
   A Twitter-like landing page with sentiment score bar and offensive comment detection using HTML, CSS, JS, and Node.js.
